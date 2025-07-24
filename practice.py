@@ -11,3 +11,4 @@ df = pd.DataFrame(data)
 print(df)
 
 df.to_excel("output.xlsx")
+df.to_json("output.json")
