@@ -10,6 +10,8 @@ data = {
 # Convert the dictionary to a DataFrame
 df = pd.DataFrame(data)
 
+print(df)
+
 print("Shape")
 print(df.shape)
 
