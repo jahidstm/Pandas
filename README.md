@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About
-This repository contains **150+ practical examples** of Pandas operations, covering:
+This repository contains **50+ practical examples** of Pandas operations, covering:
 ✔ Data cleaning and preprocessing  
 ✔ Advanced indexing and selection  
 ✔ Time series analysis  
